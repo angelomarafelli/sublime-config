@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Color Highlighter",
+		"CSScomb",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"LESS",
+		"LiveReload",
+		"Local History",
+		"Package Control",
+		"Sass",
+		"TrailingSpaces",
+		"Twig",
+		"WakaTime"
+	]
+}
