@@ -18,7 +18,7 @@
 		"bower_components/**"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": true,
 	"font_size": 14,
@@ -40,7 +40,7 @@
 	"rulers": 120,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }

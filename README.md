@@ -1,3 +1,3 @@
 # sublime-settings
 
-Configurações pessoais do editor de texto Sublime Text 3
+Configurações e lista de plugins utilizados no editor de texto Sublime Text 3
