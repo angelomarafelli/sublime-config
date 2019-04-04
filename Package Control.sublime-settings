@@ -8,13 +8,13 @@
 		"AdvancedNewFile",
 		"AutoFileName",
 		"Color Highlighter",
+		"Console Exec",
 		"CSScomb",
+		"Diffy",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
 		"JSON Reindent",
-		"Laravel 5 Artisan",
-		"Laravel 5 Snippets",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Local History",
@@ -22,8 +22,12 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"Terminal",
+		"Terminality",
 		"TrailingSpaces",
 		"Twig",
+		"Vue Syntax Highlight",
+		"Vuetify",
 		"WakaTime"
 	]
 }
